@@ -1,0 +1,20 @@
+.nav-item a{
+    color:#b184dc;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.imgFilme{
+    margin: 20px;
+}
+
+.contato_1 a{
+    text-decoration: none;
+    color:black
+}
+
+#curiosidades, #dinossauros{
+    text-align: center;
+}
